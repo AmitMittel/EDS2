@@ -262,4 +262,11 @@ main .section.highlight {
   background-color: green;
   display: flex;
   padding: 20px;
+  margin: 20px;
+}
+
+/* Accordion Added */
+.accordion {
+  background-color: #131313;
+  display: table;
 }
