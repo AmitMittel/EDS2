@@ -1,4 +1,5 @@
 /* new flexbox css added */
 .flexbox {
     display: flex;
+    flex-direction: column;
 }
