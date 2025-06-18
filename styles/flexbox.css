@@ -4,5 +4,9 @@
     flex-direction: column;
     border-radius: 10px;
     border:1px solid red;
+<<<<<<< HEAD
     margin: 20px;
+=======
+    background: blue;
+>>>>>>> 51106a92f2ce31dedf4330daf685b2c47141aa57
 }
