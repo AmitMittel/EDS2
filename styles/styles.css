@@ -261,6 +261,7 @@ main .section.highlight {
 .tabs {
   background-color: green;
   display: flex;
+  margin: 20px;
 }
 
 /* Accordion Added */
