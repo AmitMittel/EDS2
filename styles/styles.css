@@ -261,4 +261,5 @@ main .section.highlight {
 .tabs {
   background-color: green;
   display: flex;
+  padding: 20px;
 }
