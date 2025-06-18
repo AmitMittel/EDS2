@@ -269,4 +269,5 @@ main .section.highlight {
 .accordion {
   background-color: #131313;
   display: table;
+  margin: 10px;
 }
