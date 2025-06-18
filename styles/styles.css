@@ -259,6 +259,6 @@ main .section.highlight {
 
 /* Tabs Added */
 .tabs {
-  background-color: red;
+  background-color: green;
   display: flex;
 }
